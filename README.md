@@ -3,4 +3,4 @@ Karete Reports screenshot a below also can find directly on path : /swaggerPetSt
 
 ![Alt text](src/test/resources/features/images/Screenshot 2024-01-15 at 00.38.27.png?raw=true "Optional Title")
 
-![Alt text](src/test/resources/features/images/Screenshot 2024-01-15 at 00.38.48.png?raw=true "Optional Title")
+
